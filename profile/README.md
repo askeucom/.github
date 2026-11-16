@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/askeucom/brand-assets/main/askeu-logo.png" alt="AskEU" width="320">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/askeucom/brand-assets/main/askeu-logo-white.png">
+    <img src="https://raw.githubusercontent.com/askeucom/brand-assets/main/askeu-logo.png" alt="AskEU" width="320">
+  </picture>
 </p>
 
 <h3 align="center">AI that answers from EU law, not from memory.</h3>
